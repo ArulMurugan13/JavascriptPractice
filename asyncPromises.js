@@ -34,3 +34,8 @@ handlePromise();
 handlePrinting();
 
 //like hoisting when function called all the  promise starts to resolve
+// diff between async await and promise are only syntax sugar - in behind js treat
+// both is same way as promise.
+// Async await is  easy to understand than promise chaining
+
+
